@@ -1,0 +1,24 @@
+/*Mobile Devices: 319px - 480px*/
+@media (max-width:480px) {
+    body {
+        background: lightsalmon
+    }
+}
+/*iPads and Tablets: 481px — 1200px*/
+@media (min-width:481px) and (max-width:1200px) {
+    body {
+        background: powderblue
+    }
+}
+/*Laptops: 1201px — 1600px*/
+@media (min-width:1201px) and (max-width:1600px) {
+    body {
+        background: limegreen
+    }
+}
+/*Desktops: 1601px and more*/
+@media (min-width: 1601px) {
+    body {
+        background: seagreen
+    }
+}
